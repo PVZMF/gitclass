@@ -1,0 +1,14 @@
+git log --oneline
+git log -n 2
+git log grasp
+$ git log --oneline --decorate --graph --all -p
+-rm -f
+-git restore --staged
+git show idcommit
+git st shortut alias
+git diff --cashed rpo and staged
+git restore file
+git chechout idcommit
+git rest --hard  idcommit
+git revert idcommit
+git pull
